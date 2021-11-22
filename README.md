@@ -1,16 +1,22 @@
-### Hi there 👋
+![Super Software Engineer header image](https://github.com/wmanica/wmanica/blob/master/blob/header.gif)
 
-<!--
-**walter-unit4/walter-unit4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Look, up in the sky 🏙, it's a bird 🐦? It's a plane ✈️? No, it's the Super Software Engineer 🦸‍♂️ ! 
 
-Here are some ideas to get you started:
+I'm an alien from Portugal 🇵🇹  which joined @intuo in the quest against all those villains that responds to the name of “not working" and "unreadable code”.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚠️ DISCLAIMERS ⚠️
+
+🌃 Currently living in the Metropolis of Warsaw.
+
+❎ No kryptonite equivalent known.
+
+<br>
+
+### CATCH ME
+
+<a href="https://www.linkedin.com/in/waltermanica/">
+  <img align="left" alt="linkedIN" width="22px" src="https://github.com/wmanica/wmanica/blob/master/blob/linkedin.svg" />
+</a>
+
+![Visitors counter](https://visitor-badge.glitch.me/badge?page_id=wmanica.wmanica)

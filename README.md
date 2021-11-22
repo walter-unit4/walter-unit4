@@ -1,6 +1,6 @@
 ![Super Software Engineer header image](https://github.com/wmanica/wmanica/blob/master/blob/header.gif)
 
-Look, up in the sky 🏙, it's a bird 🐦? It's a plane ✈️? No, it's the Super Software Engineer 🦸‍♂️ ! 
+Look, up in the sky 🏙 , it's a bird 🐦 ? It's a plane ✈️ ? No, it's the Super Software Engineer 🦸‍♂️ ! 
 
 I'm an alien from Portugal 🇵🇹  which joined <a href="https://github.com/Unit4">Unit4</a> in the quest against all those villains that responds to the name of “not working" and "unreadable code”.
 

@@ -18,4 +18,4 @@ I'm an alien from Portugal 🇵🇹  which joined <a href="https://github.com/Un
   <img align="left" alt="linkedIN" width="22px" src="https://github.com/wmanica/wmanica/blob/master/blob/linkedin.svg" />
 </a>
 
-![Visitors counter](https://visitor-badge.glitch.me/badge?page_id=wmanica.wmanica)
+![Visitors counter](https://komarev.com/ghpvc/?username=wmanica)
